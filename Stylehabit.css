@@ -1,0 +1,32 @@
+header{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1cm;
+    font-weight: bold;
+    margin-right: 5cm;
+    margin-left: 5cm;
+    color: rgb(224, 169, 18);
+text-align: center;
+}
+main{
+    margin-top: 1cm;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-size: 0.45cm;
+}
+h1{
+    color: rgb(43, 138, 106);
+    font-size: 0.7cm;
+}
+img{
+
+}
+.banner{
+width: 100%;
+margin-bottom: 1cm;
+}
+.adaptedsize{
+    width:30vw;
+    border-radius: 1cm;
+}
+
+

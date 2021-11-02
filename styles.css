@@ -1,0 +1,54 @@
+header{
+    text-align: center;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    color: rgb(204, 151, 36);
+}
+.profile{
+    border-radius: 1cm;
+    float: left;
+    margin-right: 1cm;
+        margin-bottom: 1cm;
+}
+
+.Contenttotheright{
+    float: left;
+
+}
+main{
+    font: size 0.1em;
+    text-align: justify;
+    width: 60%;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1cm;
+    }
+article{
+    color: rgb(126, 19, 19);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 0.5cm;
+}
+    h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(201, 157, 14);
+    }
+    footer{
+        margin-left: 5cm;
+        margin-right: 10cm;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px; 
+        text-align: center;
+    }
+
+
+.habitdetails {
+    margin-top: 1cm;
+}
+.banner{
+    width: 100%;
+    margin-bottom: 1cm;
+    }
